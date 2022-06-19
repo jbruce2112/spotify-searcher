@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Spotify Searcher</string>
+    <string name="track">Track</string>
+    <string name="search">Search</string>
+    <string name="title">Title</string>
+    <string name="duration">Duration</string>
+</resources>
